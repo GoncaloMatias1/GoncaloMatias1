@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+Hi there, I'm Gonçalo Matias 👋
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI0ZGQ5YmYwNTA4YjgwOGRkZWIzMTFjNjU4MjcyMzlhNzYzYzZhYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
