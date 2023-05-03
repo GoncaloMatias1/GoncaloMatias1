@@ -17,7 +17,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- Currently Student at Faculty of Engineering of the University of Porto at Bachelor's Degree in Informatics and Computing Engineering (LEIC).
+  - Currently Student at <a href="https://sigarra.up.pt/feup/pt/web_page.Inicial">Faculty of Engineering of the University of Porto</a> at Bachelor's Degree in Informatics and Computing Engineering (LEIC).
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
