@@ -14,10 +14,6 @@ Hi there, I'm Gonçalo Matias 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :man_technologist: About Me :
   - Currently Student at <a href="https://sigarra.up.pt/feup/pt/web_page.Inicial">Faculty of Engineering of the University of Porto</a> at Bachelor's Degree in Informatics and Computing Engineering (LEIC).
 
