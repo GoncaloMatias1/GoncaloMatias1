@@ -2,12 +2,15 @@
   <h1>Hi there, I'm Gonçalo Matias 👋</h1>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=GoncaloMatias1&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align="center">
-  <a href="https://github.com/GoncaloMatias1"><img src="https://img.shields.io/github/followers/GoncaloMatias1?label=Follow&style=social"></a>
+  <div style="margin-bottom: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=GoncaloMatias1&style=flat-square&color=blue" alt=""/>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 40px;">
+    <a href="https://github.com/GoncaloMatias1"><img src="https://img.shields.io/github/followers/GoncaloMatias1?label=Follow&style=social"></a>
+    <a href="https://www.linkedin.com/in/gonçalo-matias-40a60b297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>
+    <a href="mailto:gomatias1@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&labelColor=red" alt="Email Badge"/></a>
+  </div>
 </div>
 
 ---
@@ -35,15 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMatias1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMatias1&layout=compact&langs_count=7&theme=default"/>
-</div>
-
----
-
 ### 📚 Projects
 
 | Discipline | Project Name | Description |
@@ -61,17 +55,12 @@
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gonçalo-matias-40a60b297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>
-  <a href="mailto:gomatias1@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&labelColor=red" alt="Email Badge"/></a>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMatias1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMatias1&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=GoncaloMatias1&theme=default"/>
 </div>
 
 ---
-
-### 🔥 Contributions
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GoncaloMatias1&theme=default"/>
-</div>
