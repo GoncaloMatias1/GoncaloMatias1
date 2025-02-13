@@ -49,7 +49,7 @@
 | SGI        | [Computer Graphics](https://github.com/GoncaloMatias1/MEIC-SGI) | Advanced computer graphics project |
 | SDLE       | [Distributed Systems](https://github.com/GoncaloMatias1/MEIC-SDLE) | Large-scale distributed systems project |
 | PRI        | [Information Processing](https://github.com/GoncaloMatias1/MEIC-PRI) | Information retrieval and processing project |
-| AC         | [Computer Architecture](https://github.com/GoncaloMatias1/MEIC-AC) | Advanced computer architecture project |
+| AC         | [Machine Learning](https://github.com/GoncaloMatias1/MEIC-AC) | Basketball Playoffs Prediction |
 
 #### 📘 LEIC Projects (Bachelor's in Informatics and Computing Engineering)
 
