@@ -17,9 +17,9 @@
 
 ### About Me
 
-- 🎓 Currently a student at [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/pt/web_page.Inicial) pursuing a Bachelor's Degree in Informatics and Computing Engineering (LEIC).
-- 💻 Passionate about technology and software development.
-- 📚 Always eager to learn new things and improve my skills.
+- 🎓 Currently pursuing a Master's Degree in Informatics and Computing Engineering (MEIC) at [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/pt/web_page.Inicial)
+- 💻 Passionate about technology and software development
+- 📚 Always eager to learn new things and improve my skills
 
 ---
 
@@ -40,24 +40,38 @@
 
 ### 📚 Projects
 
+<div align="center">
+
+#### 🎓 MEIC Projects (Master's in Informatics and Computing Engineering)
+
 | Discipline | Project Name | Description |
-|------------|--------------|-------------|
-| ES         | [EcoMobilize](https://github.com/GoncaloMatias1/ES_Project_EcoMobilize) | A sustainability app where people can participate in activities like cleaning rivers, streets, etc. |
-| LTW        | [ReVive](https://github.com/GoncaloMatias1/LTW_Project_ReVive) | A web-based application for selling preloved items. |
-| DA         | [Water Supply](https://github.com/GoncaloMatias1/DA_Project1_Water_Supply) | Optimization of water supply networks. |
-| DA         | [Routing Algorithm](https://github.com/GoncaloMatias1/DA_Project2_Routing_Algorithm) | Development of efficient routing algorithms for logistics. |
-| AI         | [Airport Landing](https://github.com/GoncaloMatias1/AI_Project1_AirportLanding) | AI algorithms for optimizing airport landing schedules. |
-| AI         | [Titanic Modeling](https://github.com/GoncaloMatias1/AI_Project2_TitanicModeling) | Predictive modeling using the Titanic dataset. |
-| LBAW       | [DibsOnBids](https://github.com/GoncaloMatias1/LBAW_Project_DibsOnBids) | An online auction platform. |
-| LDTS       | [Space Invaders](https://github.com/GoncaloMatias1/LDTS_Project_Space_Invaders) | A classic space invaders game. |
-| RCOM       | [Project 1-2](https://github.com/GoncaloMatias1/RCOM-Project_1-2) | Communication systems project. |
-| Programming| [Project 1](https://github.com/GoncaloMatias1/Programming-Project_1) | Programming project. |
+|:----------:|:------------:|:-------------|
+| SGI        | [Computer Graphics](https://github.com/GoncaloMatias1/MEIC-SGI) | Advanced computer graphics project |
+| SDLE       | [Distributed Systems](https://github.com/GoncaloMatias1/MEIC-SDLE) | Large-scale distributed systems project |
+| PRI        | [Information Processing](https://github.com/GoncaloMatias1/MEIC-PRI) | Information retrieval and processing project |
+| AC         | [Computer Architecture](https://github.com/GoncaloMatias1/MEIC-AC) | Advanced computer architecture project |
+
+#### 📘 LEIC Projects (Bachelor's in Informatics and Computing Engineering)
+
+| Discipline | Project Name | Description |
+|:----------:|:------------:|:-------------|
+| ES         | [EcoMobilize](https://github.com/GoncaloMatias1/ES_Project_EcoMobilize) | A sustainability app for community cleaning activities |
+| LTW        | [ReVive](https://github.com/GoncaloMatias1/LTW_Project_ReVive) | Web-based preloved items marketplace |
+| DA         | [Water Supply](https://github.com/GoncaloMatias1/DA_Project1_Water_Supply) | Network optimization for water supply systems |
+| DA         | [Routing Algorithm](https://github.com/GoncaloMatias1/DA_Project2_Routing_Algorithm) | Efficient logistics routing algorithms |
+| AI         | [Airport Landing](https://github.com/GoncaloMatias1/AI_Project1_AirportLanding) | AI-powered airport landing schedule optimization |
+| AI         | [Titanic Modeling](https://github.com/GoncaloMatias1/AI_Project2_TitanicModeling) | Machine learning with Titanic dataset |
+| LBAW       | [DibsOnBids](https://github.com/GoncaloMatias1/LBAW_Project_DibsOnBids) | Online auction platform |
+| LDTS       | [Space Invaders](https://github.com/GoncaloMatias1/LDTS_Project_Space_Invaders) | Classic arcade game recreation |
+| RCOM       | [Communication Systems](https://github.com/GoncaloMatias1/RCOM-Project_1-2) | Network communication systems project |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloMatias1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMatias1&layout=compact&langs_count=7&theme=default"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=GoncaloMatias1&theme=default"/>
