@@ -3,13 +3,20 @@
 </div>
 
 <div align="center">
-  <div style="margin-bottom: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=GoncaloMatias1&style=flat-square&color=blue" alt=""/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=GoncaloMatias1&style=for-the-badge&color=0891b2" alt="Profile Views"/>
   </div>
-  <div style="display: flex; justify-content: center; gap: 40px;">
-    <a href="https://github.com/GoncaloMatias1"><img src="https://img.shields.io/github/followers/GoncaloMatias1?label=Follow&style=social"></a>
-    <a href="https://www.linkedin.com/in/gonçalo-matias-40a60b297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/></a>
-    <a href="mailto:gomatias1@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&labelColor=red" alt="Email Badge"/></a>
+  
+  <div>
+    <a href="https://github.com/GoncaloMatias1">
+      <img src="https://img.shields.io/github/followers/GoncaloMatias1?logo=github&style=for-the-badge&color=171515&labelColor=171515" alt="GitHub followers"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gonçalo-matias-40a60b297/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:gomatias1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   </div>
 </div>
 
