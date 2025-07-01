@@ -49,15 +49,6 @@
 
 <div align="center">
 
-#### 🎓 MEIC Projects (Master's in Informatics and Computing Engineering)
-
-| Discipline | Project Name | Description |
-|:----------:|:------------:|:-------------|
-| SGI        | [Computer Graphics](https://github.com/GoncaloMatias1/MEIC-SGI) | Advanced computer graphics project |
-| SDLE       | [Distributed Systems](https://github.com/GoncaloMatias1/MEIC-SDLE) | Large-scale distributed systems project |
-| PRI        | [Information Processing](https://github.com/GoncaloMatias1/MEIC-PRI) | Information retrieval and processing project |
-| AC         | [Machine Learning](https://github.com/GoncaloMatias1/MEIC-AC) | Basketball Playoffs Prediction |
-
 #### 📘 LEIC Projects (Bachelor's in Informatics and Computing Engineering)
 
 | Discipline | Project Name | Description |
@@ -71,6 +62,15 @@
 | LBAW       | [DibsOnBids](https://github.com/GoncaloMatias1/LBAW_Project_DibsOnBids) | Online auction platform |
 | LDTS       | [Space Invaders](https://github.com/GoncaloMatias1/LDTS_Project_Space_Invaders) | Classic arcade game recreation |
 | RCOM       | [Communication Systems](https://github.com/GoncaloMatias1/RCOM-Project_1-2) | Network communication systems project |
+
+#### 🎓 MEIC Projects (Master's in Informatics and Computing Engineering)
+
+| Discipline | Project Name | Description |
+|:----------:|:------------:|:-------------|
+| SGI        | [Computer Graphics](https://github.com/GoncaloMatias1/MEIC-SGI) | Advanced computer graphics project |
+| SDLE       | [Distributed Systems](https://github.com/GoncaloMatias1/MEIC-SDLE) | Large-scale distributed systems project |
+| PRI        | [Information Processing](https://github.com/GoncaloMatias1/MEIC-PRI) | Information retrieval and processing project |
+| AC         | [Machine Learning](https://github.com/GoncaloMatias1/MEIC-AC) | Basketball Playoffs Prediction |
 
 </div>
 
