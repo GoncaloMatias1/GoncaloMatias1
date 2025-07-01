@@ -60,8 +60,12 @@
 | AI         | [Airport Landing](https://github.com/GoncaloMatias1/AI_Project1_AirportLanding) | AI-powered airport landing schedule optimization |
 | AI         | [Titanic Modeling](https://github.com/GoncaloMatias1/AI_Project2_TitanicModeling) | Machine learning with Titanic dataset |
 | LBAW       | [DibsOnBids](https://github.com/GoncaloMatias1/LBAW_Project_DibsOnBids) | Online auction platform |
+| IPC       | [WattWatchers](https://github.com/GoncaloMatias1/LEIC-IPC) | Energy Management User Interface Project |
 | LDTS       | [Space Invaders](https://github.com/GoncaloMatias1/LDTS_Project_Space_Invaders) | Classic arcade game recreation |
 | RCOM       | [Communication Systems](https://github.com/GoncaloMatias1/RCOM-Project_1-2) | Network communication systems project |
+| CG         | [Heli](https://github.com/GoncaloMatias1/LEIC-CG) | Helicopter Fire Extinguish |
+| COMP       | [Optimizations](https://github.com/GoncaloMatias1/LEIC-COMP) | Compiler Optimizations |
+| CPD       | [Parallel and Distributed Computing](https://github.com/GoncaloMatias1/LEIC-CPD) | Parallel and Distributed projects |
 
 #### 🎓 MEIC Projects (Master's in Informatics and Computing Engineering)
 
@@ -71,6 +75,13 @@
 | SDLE       | [Distributed Systems](https://github.com/GoncaloMatias1/MEIC-SDLE) | Large-scale distributed systems project |
 | PRI        | [Information Processing](https://github.com/GoncaloMatias1/MEIC-PRI) | Information retrieval and processing project |
 | AC         | [Machine Learning](https://github.com/GoncaloMatias1/MEIC-AC) | Basketball Playoffs Prediction |
+
+#### 💻 Individual Projects
+
+| Discipline | Project Name | Description |
+|:----------:|:------------:|:-------------|
+| GoPro        | [GoPro-GPS-Extractor](https://github.com/GoncaloMatias1/GoPro-GPS-Extractor) | GoPro-GPS-Extractor for Go-Karting|
+| Apple        | [Apple Collection Calculator](https://github.com/GoncaloMatias1/iPaid?tab=readme-ov-file) | Track the total value of your Apple products collection |
 
 </div>
 
